@@ -1,0 +1,7 @@
+You need to install following libraries:
+1: Face Recognition
+2: OpenCV
+3: Numpy
+4: CSV
+5: OS
+6: Datetime
